@@ -1,0 +1,28 @@
+.headline {
+    color: darkgreen;
+    font-family: Georgia ;
+    text-align: center;
+}
+#investigation{
+    color: darkslateblue;
+    font-family: Georgia ;
+    text-align: center;
+}
+.parent > p{
+    color: firebrick;
+}
+.also{
+    text-size-adjust: uppercase;
+}
+.link {
+    text-decoration: none;
+}
+
+img {
+    float: left;
+    margin-right: 75px;
+
+}
+a {
+    text-decoration: none;
+}
